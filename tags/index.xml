@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Sam Perrin (Peza)</title>
+    <title>Tags on Sam Perrin</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Sam Perrin (Peza)</description>
+    <description>Recent content in Tags on Sam Perrin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2020 Sam Perrin</copyright>
+    <lastBuildDate>Thu, 09 Jan 2020 19:01:07 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tag_a</title>
+      <link>/tags/tag_a/</link>
+      <pubDate>Thu, 09 Jan 2020 19:01:07 +0000</pubDate>
+      
+      <guid>/tags/tag_a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag_b</title>
+      <link>/tags/tag_b/</link>
+      <pubDate>Thu, 09 Jan 2020 19:01:07 +0000</pubDate>
+      
+      <guid>/tags/tag_b/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

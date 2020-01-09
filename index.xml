@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sam Perrin (Peza)</title>
+    <title>Sam Perrin</title>
     <link>/</link>
-    <description>Recent content on Sam Perrin (Peza)</description>
+    <description>Recent content on Sam Perrin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2020 Sam Perrin</copyright>
@@ -19,6 +19,16 @@
       
       <guid>/posts/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hello, I&#39;m Sam Perrin.
+I&#39;m currently a Lead Software Engineer working at Matillion in Manchester.</description>
     </item>
     
   </channel>
